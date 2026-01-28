@@ -1,0 +1,2 @@
+[submodule "vendor/logc"]
+	url = https://github.com/nalyo/log.c.git
